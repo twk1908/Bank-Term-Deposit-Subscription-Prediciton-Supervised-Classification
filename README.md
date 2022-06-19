@@ -4,5 +4,5 @@
 
 *Results and performance of models are then evaluated*
 
-*Bank Deposit_Classification.R: Project's R Script , with exploratory data analytics and machine learning (supervised classification and model evaluation)
+*Bank Deposit_Classification.R: Project's R Script , with Exploratory Data Analytics and Machine Learning Model (supervised classification and model evaluation)
 *bank.csv: Dataset for reference.
